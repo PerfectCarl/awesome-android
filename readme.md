@@ -41,6 +41,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Vuforia](https://www.vuforia.com) - Augmated Reality libary.
 - [Unity](http://unity3d.com/unity/multiplatform/mobile) - Cross-platform game creation system.
+- [libGDX](http://libgdx.badlogicgames.com/) - Cross-platform lightweight game framework.
 
 ### GUI
 
